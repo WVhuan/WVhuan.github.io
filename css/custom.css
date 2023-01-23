@@ -585,3 +585,15 @@ h6::before {
 [data-theme="dark"] #page-header::before {
   background: transparent !important;
 }
+
+/* 首页分类磁铁黑夜模式适配 */
+/* 一般状态 */
+[data-theme="dark"] .magnet_link_context {
+  background: #1e1e1e;
+  color: antiquewhite;
+}
+/* 鼠标悬浮状态 */
+[data-theme="dark"] .magnet_link_context:hover {
+  background: #00c4b6;
+  color: #f2f2f2;
+}
