@@ -4311,6 +4311,7 @@ h1.page-title + .tag-cloud-list {
   -o-transition: all 0.4s;
   -ms-transition: all 0.4s;
   transition: all 0.4s;
+  border-radius: 30px;
 }
 .post-reward .reward-button:hover {
   -webkit-box-shadow: inset 20em 0 0 0 var(--btn-hover-color);
@@ -4322,17 +4323,17 @@ h1.page-title + .tag-cloud-list {
 .post-reward .reward-button .reward-main {
   position: absolute;
   bottom: 40px;
-  left: -25%;
+  left: -100%;
   z-index: 100;
   display: none;
   padding: 0 0 15px;
-  width: 120%;
+  width: 300%;
 }
 .post-reward .reward-button .reward-main .reward-all {
   display: inline-block;
   margin: 0;
   padding: 1rem 0.5rem;
-  border-radius: 4px;
+  border-radius: 12px;
   background: var(--reward-pop);
 }
 .post-reward .reward-button .reward-main .reward-all:before {
