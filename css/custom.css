@@ -600,6 +600,6 @@ h6::before {
 
 /* 背景加载样式 */
 .loading-img {
-  background: url(https://pic-bed01.pages.dev/Avatar.webp) no-repeat center center;
+  background: url(https://cdn.jsdelivr.net/gh/WVhuan/Pic-Bed01/Avatar.webp) no-repeat center center;
   background-size: cover;
 }
