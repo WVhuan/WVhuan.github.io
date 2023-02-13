@@ -599,7 +599,8 @@ h6::before {
 }
 
 /* 背景加载样式 */
+/* url(https://pic-bed01.obs.cn-east-3.myhuaweicloud.com:443/blog/Avatar.webp) */
 .loading-img {
-  background: url(https://pic-bed01.obs.cn-east-3.myhuaweicloud.com:443/blog/Avatar.webp) no-repeat center center;
+  background: url(https://gitee.com/yuhwn/pic-bed01/raw/master/Avatar.webp) no-repeat center center;
   background-size: cover;
 }
