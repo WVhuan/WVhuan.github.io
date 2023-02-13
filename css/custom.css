@@ -600,7 +600,8 @@ h6::before {
 
 /* 背景加载样式 */
 /* url(https://pic-bed01.obs.cn-east-3.myhuaweicloud.com:443/blog/Avatar.webp) */
+/* url(https://gitee.com/yuhwn/pic-bed01/raw/master/Avatar.webp) */
 .loading-img {
-  background: url(https://gitee.com/yuhwn/pic-bed01/raw/master/Avatar.webp) no-repeat center center;
+  background: url(https://pic-bed01.obs.cn-east-3.myhuaweicloud.com/blog/Avatar.webp?AccessKeyId=4WJGJQOBJQ3QGPSVREIF&Expires=1707214178&Signature=7bh89RNMnn4cSTGD3A%2BxrkYMBuA%3D) no-repeat center center;
   background-size: cover;
 }
