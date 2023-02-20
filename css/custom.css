@@ -602,6 +602,6 @@ h6::before {
 /* url(https://pic-bed01.obs.cn-east-3.myhuaweicloud.com:443/blog/Avatar.webp) */
 /* url(https://gitee.com/yuhwn/pic-bed01/raw/master/Avatar.webp) */
 .loading-img {
-  background: url(https://pic-bed01.obs.cn-east-3.myhuaweicloud.com:443/blog/Avatar.webp) no-repeat center center;
+  background: url(https://pic-bed01.obs.cn-east-3.myhuaweicloud.com/blog/Avatar_1.webp) no-repeat center center;
   background-size: cover;
 }
